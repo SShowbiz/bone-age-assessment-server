@@ -10,8 +10,7 @@
 ├── app.py
 ├── Dockerfile
 ├── heroku.yml
-└── requirements.txt
-
+└── requirements.txtx
 ```
 
 ## description
